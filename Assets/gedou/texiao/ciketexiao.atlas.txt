@@ -1,0 +1,160 @@
+
+ciketexiao.png
+size: 850,1042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangyu1
+  rotate: false
+  xy: 745, 156
+  size: 43, 114
+  orig: 61, 165
+  offset: 12, 26
+  index: -1
+fangyu2
+  rotate: true
+  xy: 169, 17
+  size: 51, 145
+  orig: 61, 165
+  offset: 6, 9
+  index: -1
+fangyu3
+  rotate: false
+  xy: 788, 549
+  size: 57, 157
+  orig: 61, 165
+  offset: 3, 5
+  index: -1
+fangyu4
+  rotate: true
+  xy: 2, 7
+  size: 61, 165
+  orig: 61, 165
+  offset: 0, 0
+  index: -1
+jinengjizhong1
+  rotate: false
+  xy: 337, 6
+  size: 272, 254
+  orig: 274, 256
+  offset: 1, 1
+  index: -1
+jinengjizhong2
+  rotate: false
+  xy: 337, 262
+  size: 307, 262
+  orig: 309, 264
+  offset: 1, 1
+  index: -1
+jinengjizhong3
+  rotate: false
+  xy: 343, 526
+  size: 309, 251
+  orig: 311, 253
+  offset: 1, 1
+  index: -1
+jinengjizhong4
+  rotate: false
+  xy: 2, 70
+  size: 333, 255
+  orig: 335, 257
+  offset: 1, 1
+  index: -1
+jinengjizhong5
+  rotate: false
+  xy: 343, 779
+  size: 336, 261
+  orig: 338, 263
+  offset: 1, 1
+  index: -1
+jizhong1
+  rotate: false
+  xy: 681, 875
+  size: 167, 165
+  orig: 174, 209
+  offset: 3, 39
+  index: -1
+jizhong2
+  rotate: false
+  xy: 681, 708
+  size: 166, 165
+  orig: 174, 209
+  offset: 4, 39
+  index: -1
+pugongjizhong1
+  rotate: true
+  xy: 611, 3
+  size: 107, 109
+  orig: 109, 111
+  offset: 1, 1
+  index: -1
+pugongjizhong2
+  rotate: true
+  xy: 654, 416
+  size: 127, 134
+  orig: 129, 136
+  offset: 1, 1
+  index: -1
+pugongjizhong3
+  rotate: false
+  xy: 611, 112
+  size: 132, 148
+  orig: 134, 150
+  offset: 1, 1
+  index: -1
+pugongjizhong4
+  rotate: false
+  xy: 646, 272
+  size: 133, 142
+  orig: 135, 144
+  offset: 1, 1
+  index: -1
+shunyijizhong1
+  rotate: false
+  xy: 654, 545
+  size: 132, 161
+  orig: 141, 171
+  offset: 4, 5
+  index: -1
+shunyijizhong2
+  rotate: false
+  xy: 2, 327
+  size: 321, 352
+  orig: 326, 356
+  offset: 2, 2
+  index: -1
+shunyijizhong3
+  rotate: false
+  xy: 2, 681
+  size: 339, 359
+  orig: 349, 369
+  offset: 5, 6
+  index: -1
+xuli1
+  rotate: true
+  xy: 790, 202
+  size: 104, 53
+  orig: 106, 55
+  offset: 1, 1
+  index: -1
+xuli2
+  rotate: true
+  xy: 781, 308
+  size: 106, 55
+  orig: 108, 57
+  offset: 1, 1
+  index: -1
+xuli3
+  rotate: true
+  xy: 722, 2
+  size: 108, 55
+  orig: 110, 57
+  offset: 1, 1
+  index: -1
+xuli4
+  rotate: true
+  xy: 790, 429
+  size: 118, 54
+  orig: 120, 56
+  offset: 1, 1
+  index: -1
